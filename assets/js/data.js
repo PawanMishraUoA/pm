@@ -139,11 +139,11 @@ const publications = [
 const scholarProfile = {
   url: 'https://scholar.google.com/citations?user=KGFELvMAAAAJ&hl=en',
 
-  citations: 35,
+  citations: 34,
 
   hIndex: 4,
 
   i10Index: 1,
 
-  lastVerified: Sept2026
+  lastVerified: '23 September 2026'
 };
