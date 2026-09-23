@@ -145,5 +145,5 @@ const scholarProfile = {
 
   i10Index: 1,
 
-  lastVerified: null
+  lastVerified: Sept2026
 };
